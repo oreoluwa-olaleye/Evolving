@@ -24,7 +24,7 @@ Before India, before Africa, before the Caribbean —
 British colonialism wasn’t invented overseas.  
 It **began at home** — on Celtic soil, under Catholic skies, enforced by English steel.
 
-🎧 *[Listen to the Season 6 Soundtrack — Coming Soon](#)*
+ *[Listen to the Season 6 Soundtrack — Coming Soon](#)*
 
 ---
 
