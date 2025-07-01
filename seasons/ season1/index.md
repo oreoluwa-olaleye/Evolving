@@ -1,29 +1,33 @@
-<!--#include virtual="/partials/header.html" -->
+---
+layout: base.njk
+title: Season 1 – The Curse of the Crown
+description: Nigeria and Kenya's shared colonial wound — dissected in Season 1 of the Evolving docu-series. Explore episode guides, resistance stories, and archival revelations.
+---
 
 ![Season 1 Banner](/assets/season1-banner.jpg)
 
-# **Season 1: The Curse of the Crown**
+# **Season 1: The Curse of the Crown**  
 *Nigeria & Kenya – Two Colonies. One Spell.*
 
 > “What colonialism gave us was a shared trauma dressed up as civilization.”  
 > — *Narration from Episode 1*
 
-🔗 [Home](/index.md) › [Seasons](/index.md#season-index) › Season 1
+[🔙 Home](/index.md) › [📜 Seasons](/seasons/) › **Season 1**
 
 ---
 
 ## 🧠 Overview
 
 **The Curse of the Crown** is where the journey begins.  
-Two nations on opposite ends of Africa, tied together by a single colonial sorcery — **divide, dominate, and disappear**.
+Two nations on opposite ends of Africa, tied together by a single colonial sorcery — **divide, dominate, and disappear.**
 
-- In **Kenya**, settlers seized land with the ink of false treaties.
+- In **Kenya**, settlers seized land with the ink of false treaties.  
 - In **Nigeria**, borders were drawn to merge oil with fire — and call it a country.
 
-The British did not just conquer land.  
+The British didn’t just conquer land.  
 They rearranged identities, manipulated tribes, and handed over power to **the most loyal — not the most capable**.
 
-🎧 [Listen to the Official Season 1 Soundtrack](#) *(Coming Soon)*
+🎧 *[Listen to the Official Season 1 Soundtrack](#)* *(Coming Soon)*
 
 ---
 
@@ -37,8 +41,7 @@ They rearranged identities, manipulated tribes, and handed over power to **the m
 The Kenyan Highlands were fertile and free — until the British carved them into the "White Highlands".  
 Meet the Mau Mau, the forgotten freedom fighters the world called terrorists.
 
-> 💡 **Did You Know?**  
-> Over 1.5 million Kikuyus were detained in colonial "re-education" camps between 1952 and 1960.
+> 💡 *Over 1.5 million Kikuyus were detained in colonial "re-education" camps between 1952 and 1960.*
 
 ---
 
@@ -57,10 +60,11 @@ This episode exposes the origins of Nigeria’s unwritten law: the zoning system
 **Hausa Title:** *Raba su, Ciyar da su*  
 ⚔️ **Theme:** Tribe as Tool  
 
-How the British pitted tribe against tribe:
+How the British pitted tribe against tribe:  
 - **In Kenya:** Kikuyu vs Kalenjin  
 - **In Nigeria:** Hausa vs Yoruba vs Igbo  
-This was not accidental — it was policy, written in administrative memos.
+
+This was not accidental — it was colonial policy, written in administrative memos.
 
 ---
 
@@ -70,8 +74,7 @@ This was not accidental — it was policy, written in administrative memos.
 They gave us flags, but kept the power.  
 This episode explores the fake exit — how elite handovers masked colonial continuity.
 
-> 💡 **Did You Know?**  
-> Kenya’s first constitution was drafted in London — not Nairobi.
+> 💡 *Kenya’s first constitution was drafted in London — not Nairobi.*
 
 ---
 
@@ -80,7 +83,7 @@ This episode explores the fake exit — how elite handovers masked colonial cont
 
 Kikuyus were accused of dominance in Kenya.  
 Yorubas and Hausas dominated Nigeria’s power corridors.  
-This episode explores: _Is it tribalism, or is it colonial leftovers?_
+This episode explores: _Is it tribalism, or colonial leftovers?_
 
 ---
 
@@ -107,17 +110,18 @@ This final episode asks: _Did we ever truly break free?_
 
 ## 🔊 Narrative Tools & Language
 
-- Voiceovers in:
-  - **Pidgin English**
-  - **Swahili**
-  - **Queen’s English** (ironically used as colonial voice)
-- Archival Inserts:
-  - British proclamations read like demonic spells
-  - Quotes from:
-    - **Jomo Kenyatta**
-    - **Obafemi Awolowo**
-    - **Lord Lugard**
-    - **Thomas Babington Macaulay**
+Voiceovers in:
+- **Pidgin English**  
+- **Swahili**  
+- **Queen’s English** (ironically used as colonial voice)
+
+Archival Inserts:
+- British proclamations read like demonic spells  
+- Quotes from:
+  - **Jomo Kenyatta**
+  - **Obafemi Awolowo**
+  - **Lord Lugard**
+  - **Thomas Babington Macaulay**
 
 ---
 
@@ -132,13 +136,11 @@ This final episode asks: _Did we ever truly break free?_
 
 ## 🧭 Series Navigation
 
-- [🔙 Back to All Seasons](/index.md)
-- [📜 LICENSE this Season](/LICENSE.md)
+- [🔙 Back to All Seasons](/seasons/index.md)  
+- [📜 LICENSE this Season](/LICENSE.md)  
 - [📩 Contact Creator](mailto:oreoluwaolaleye96@gmail.com)
 
 ---
 
 © 2025 **Oreoluwa O. Olaleye**  
 _Descendant of survivors. Witness to history. Rebel with a reason._
-
-<!--#include virtual="/partials/footer.html" -->
