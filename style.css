@@ -141,3 +141,48 @@ nav a {
 nav a:hover {
   color: var(--accent);
 }
+.lead {
+  font-size: 1.25rem;
+  color: var(--muted);
+  margin-bottom: 2rem;
+  max-width: 60ch;
+}
+
+.season-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.season-card {
+  background: #111;
+  border-left: 4px solid var(--accent);
+  padding: 1.5rem;
+  border-radius: 8px;
+  transition: background 0.3s ease;
+}
+
+.season-card:hover {
+  background: #1a1a1a;
+}
+
+.season-card span {
+  color: var(--accent);
+}
+
+.season-card.loading {
+  opacity: 0.5;
+  border-left-color: var(--muted);
+}
+
+.cta {
+  margin-top: 4rem;
+  border-top: 1px solid #333;
+  padding-top: 2rem;
+}
+
+.cta h2 {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}
