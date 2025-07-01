@@ -1,1 +1,102 @@
+/* Fonts: Pairing classic serif (for voice) + modern sans (for clarity) */
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Inter:wght@300;500;700&display=swap');
 
+:root {
+  --bg: #0a0a0a;
+  --text: #f2f2f2;
+  --accent: #c89b3c; /* regal gold */
+  --danger: #8b0000; /* blood red */
+  --muted: #999;
+  --font-serif: 'Libre Baskerville', serif;
+  --font-sans: 'Inter', sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-sans);
+  line-height: 1.7;
+  padding: 2rem;
+}
+
+h1, h2, h3 {
+  font-family: var(--font-serif);
+  color: var(--accent);
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+}
+
+h1 {
+  font-size: 2.8rem;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-top: 2rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+p, li {
+  font-size: 1.1rem;
+  color: var(--text);
+  margin-bottom: 1rem;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #fff;
+}
+
+blockquote {
+  border-left: 4px solid var(--danger);
+  padding-left: 1rem;
+  font-style: italic;
+  font-family: var(--font-serif);
+  color: var(--muted);
+  margin: 1.5rem 0;
+}
+
+code {
+  background: #1a1a1a;
+  color: var(--accent);
+  padding: 2px 4px;
+  border-radius: 4px;
+  font-size: 0.95rem;
+}
+
+.container {
+  max-width: 860px;
+  margin: auto;
+  padding: 2rem;
+}
+
+.section {
+  margin-bottom: 3rem;
+  border-top: 1px solid #333;
+  padding-top: 2rem;
+}
+
+footer {
+  border-top: 1px solid #222;
+  padding-top: 1rem;
+  font-size: 0.9rem;
+  color: var(--muted);
+  text-align: center;
+  margin-top: 4rem;
+}
