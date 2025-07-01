@@ -33,6 +33,8 @@
 | S8     | Oceania’s Chains               | Australia, New Zealand, Aboriginal Genocide |
 | S9     | The Education Lie              | Mission schools & English dominance   |
 | S10    | The Rebellion That Never Ended | Global resistance leaders             |
+S11    | Gold Coast Ghosts              | Ghana: Slave Castles, Nkrumah, Neo-Colonialism |
+
 
 > 🔖 Over 50 seasons planned, one for every British-colonized region.
 
