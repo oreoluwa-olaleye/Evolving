@@ -1,7 +1,7 @@
 ---
 layout: base.njk
-title: Season 6 – Ireland: The First Colony
-description: Season 6 of EVOLVING uncovers Britain’s earliest colonial experiment — Ireland — and how it laid the blueprint for empire-building globally.
+title: "Season 6 - Ireland: The First Colony"
+description: "Season 6 of EVOLVING uncovers Britain’s earliest colonial experiment — Ireland — and how it laid the blueprint for empire-building globally."
 ---
 
 ![Season 6 Banner](/assets/season6-banner.jpg)
@@ -24,7 +24,7 @@ Before India, before Africa, before the Caribbean —
 British colonialism wasn’t invented overseas.  
 It **began at home** — on Celtic soil, under Catholic skies, enforced by English steel.
 
- *[Listen to the Season 6 Soundtrack — Coming Soon](#)*
+🎧 *[Listen to the Season 6 Soundtrack — Coming Soon](#)*
 
 ---
 
