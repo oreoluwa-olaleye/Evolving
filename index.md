@@ -1,7 +1,7 @@
 <div id="header"></div>
 
 # **EVOLVING: Beyond the British Spell**
-*A Continent. A Crown. A Curse — Told Across Continents.*
+*Continents, A Crown and A Curse : Told Across Continents.*
 
 > “They came bearing peace, but baptized us in chains.”  
 > — *The Colonized Voice*
@@ -45,13 +45,13 @@ From the gold mines of Ghana to the rice paddies of Bengal, the sugar fields of 
 
 ### 🔗 [Season 1: The Curse of the Crown](/seasons/season1/)
 **Focus:** Nigeria & Kenya  
-The birth of division — zoning ghosts in Nigeria, highland hauntings in Kenya.
+The birth of division : zoning ghosts in Nigeria, highland hauntings in Kenya.
 
 ---
 
 ### 🔗 [Season 2: The Raj Illusion](/seasons/season2/)
 **Focus:** India & Pakistan  
-From Gandhi to Partition — the crown’s greatest mirage and bloodiest exit.
+From Gandhi to Partition : the crown’s greatest mirage and bloodiest exit.
 
 ---
 
@@ -69,13 +69,13 @@ How British racial engineering set the table for apartheid’s precision cruelty
 
 ### 🔗 [Season 5: The Palestine Partition](/seasons/season5/)
 **Focus:** Palestine  
-The Balfour Promise. A land divided by ink, soaked in generations of blood.
+The Balfour Promise : A land divided by ink, soaked in generations of blood.
 
 ---
 
 ### 🔗 [Season 6: Ireland — The First Colony](/seasons/season6/)
 **Focus:** Ireland  
-Before Africa, before India — Britain’s colonial trial run started at home.
+Before Africa, before India : Britain’s colonial trial run started at home.
 
 ---
 
