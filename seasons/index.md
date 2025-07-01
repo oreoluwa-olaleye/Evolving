@@ -61,7 +61,7 @@ New seasons are in the works for:
 
 ## 🎨 Series Design Principles
 
-Each season follows a signature format:
+Each season follows a signature format
 
 - 🎞️ **Narrative Realism** × Reenactment  
 - 📚 **History × Psychology × Resistance**  
