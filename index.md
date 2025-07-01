@@ -1,7 +1,11 @@
-<div id="header"></div>
+---
+layout: base.njk
+title: Home
+description: Evolving is a docu-drama series retelling the history of British colonialism through the voices of the colonized. 6 continents, 50+ countries, 500+ years of resistance.
+---
 
 # **EVOLVING: Beyond the British Spell**
-*Continents, A Crown and A Curse : Told Across Continents.*
+*Continents, A Crown and A Curse — Told Across Continents.*
 
 > “They came bearing peace, but baptized us in chains.”  
 > — *The Colonized Voice*
@@ -15,7 +19,7 @@ A poetic rebellion.
 
 This is the **longest-running historical docu-drama series in TV history**, chronicling the legacy of the **British Empire** — through the eyes of those it colonized, erased, and defied.
 
-Each **season is a country**.  
+Each **season is a country or region**.  
 Each **episode is a memory**.  
 Together, they expose the **global trauma** disguised as "civilization."
 
@@ -45,13 +49,13 @@ From the gold mines of Ghana to the rice paddies of Bengal, the sugar fields of 
 
 ### 🔗 [Season 1: The Curse of the Crown](/seasons/season1/)
 **Focus:** Nigeria & Kenya  
-The birth of division : zoning ghosts in Nigeria, highland hauntings in Kenya.
+The birth of division — zoning ghosts in Nigeria, highland hauntings in Kenya.
 
 ---
 
 ### 🔗 [Season 2: The Raj Illusion](/seasons/season2/)
 **Focus:** India & Pakistan  
-From Gandhi to Partition : the crown’s greatest mirage and bloodiest exit.
+From Gandhi to Partition — the crown’s greatest mirage and bloodiest exit.
 
 ---
 
@@ -69,13 +73,13 @@ How British racial engineering set the table for apartheid’s precision cruelty
 
 ### 🔗 [Season 5: The Palestine Partition](/seasons/season5/)
 **Focus:** Palestine  
-The Balfour Promise : A land divided by ink, soaked in generations of blood.
+The Balfour Promise — a land divided by ink, soaked in generations of blood.
 
 ---
 
 ### 🔗 [Season 6: Ireland — The First Colony](/seasons/season6/)
 **Focus:** Ireland  
-Before Africa, before India : Britain’s colonial trial run started at home.
+Before Africa, before India — Britain’s colonial trial run started at home.
 
 ---
 
@@ -123,10 +127,10 @@ This isn’t entertainment. It’s re-education.
 - **Archive collective memory before it’s lost**
 
 This series belongs in:
-- Film festivals
-- Classrooms
-- National libraries
-- Global streaming platforms
+- 🎞️ Film festivals  
+- 🏫 Classrooms  
+- 📚 National archives  
+- 📺 Streaming platforms
 
 ---
 
@@ -136,7 +140,7 @@ You can license a season for adaptation, co-production, or distribution.
 
 - **Flat Fee:** ₦15,000,000 per season  
 - **Royalty:** 10% of gross earnings  
-- **Discounts/Waivers:** At creator's discretion for impact-driven projects  
+- **Discounts/Waivers:** At creator’s discretion for impact-driven projects  
 - **Contact:** [oreoluwaolaleye96@gmail.com](mailto:oreoluwaolaleye96@gmail.com)  
 - **Full Terms:** [LICENSE.md](/LICENSE.md)
 
@@ -144,24 +148,13 @@ You can license a season for adaptation, co-production, or distribution.
 
 ## 🗺️ Navigation
 
-- [🏠 Home](/index.md)
-- [📘 Series Bible](/README.md)
-- [📜 License Terms](/LICENSE.md)
+- [🏠 Home](/index.md)  
+- [📘 Series Bible](/README.md)  
+- [📜 License Terms](/LICENSE.md)  
 - [📩 Contact Creator](mailto:oreoluwaolaleye96@gmail.com)
 
 ---
 
 © 2025 **Oreoluwa O. Olaleye**  
-_Descendant of survivors. Witness to history. Rebel with a reason._
-
-<div id="footer"></div>
-
-<script>
-  async function loadPartial(id, path) {
-    const res = await fetch(path);
-    const html = await res.text();
-    document.getElementById(id).innerHTML = html;
-  }
-  loadPartial("header", "/partials/header.html");
-  loadPartial("footer", "/partials/footer.html");
-</script>
+_Descendant of survivors._
+_Witness to history & Rebel with a reason._
