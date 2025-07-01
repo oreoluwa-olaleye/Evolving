@@ -1,0 +1,4 @@
+/season1/*     /season1/:splat     200
+/seasons/*     /seasons/:splat     200
+/partners/*    /partners/:splat    200
+/*             /index.html         404
