@@ -1,4 +1,8 @@
-<!--#include virtual="/partials/header.html" -->
+---
+layout: base.njk
+title: Season Archive
+description: Explore the complete list of seasons from Evolving: Beyond the British Spell — the world's most expansive decolonial docu-series.
+---
 
 # 📜 **Season Archive**
 *Unfolding the Empire, One Nation at a Time.*
@@ -14,16 +18,14 @@ The **British Empire** touched over 50 territories across 6 continents.
 _Evolving: Beyond the British Spell_ is the first docu-drama series to unravel the empire’s dark legacy — one **season**, one **region**, one **spell** at a time.
 
 Each season explores:
-- The **colonial invasion**
-- The **tactics of control** (divide, educate, spiritualize, steal)
-- The **resistance movements**
-- And the **modern-day trauma and triumphs**
+- 🛶 The **colonial invasion**
+- 🎓 The **tactics of control** (divide, educate, spiritualize, extract)
+- 🔥 The **resistance movements**
+- 📆 The **modern-day trauma and triumphs**
 
 ---
 
 ## 🎬 Released Seasons (1–11)
-
-Each folder contains a dedicated `index.md` with full episode guides, cultural references, and narrative arcs.
 
 | Season | Title | Focus | Folder |
 |--------|-------|-------|--------|
@@ -36,14 +38,15 @@ Each folder contains a dedicated `index.md` with full episode guides, cultural r
 | 7 | [**The Crown in Asia**](/seasons/season7/) | Malaysia, Burma, Hong Kong | `season7/` |
 | 8 | [**Oceania’s Chains**](/seasons/season8/) | Australia & New Zealand | `season8/` |
 | 9 | [**The Education Lie**](/seasons/season9/) | Global Mission Schools | `season9/` |
-| 10 | [**The Rebellion That Never Ended**](/seasons/season10/) | Global Freedom Icons | `season10/` |
+| 10 | [**The Rebellion That Never Ended**](/seasons/season10/) | Global Resistance Icons | `season10/` |
 | 11 | [**Gold Coast Ghosts**](/seasons/season11/) | Ghana | `season11/` |
 
 ---
 
 ## ⏳ Seasons in Development (12+)
 
-Work is underway for new seasons on:
+New seasons are in the works for:
+
 - 🇺🇬 **Uganda**
 - 🇿🇼 **Zimbabwe**
 - 🇪🇬 **Egypt**
@@ -52,44 +55,44 @@ Work is underway for new seasons on:
 - 🇸🇬 **Singapore**
 - ...and more.
 
-Want to co-produce or license a season? Visit the [📜 LICENSE](../../LICENSE.md) page.
+> Want to license or co-produce a region’s story? View the [📜 LICENSE](../../LICENSE.md) terms or [📩 contact the creator](mailto:oreoluwaolaleye96@gmail.com).
 
 ---
 
 ## 🎨 Series Design Principles
 
-Every season follows a **cinematic-meets-documentary** structure:
+Each season follows a signature format:
 
 - 🎞️ **Narrative Realism** × Reenactment  
-- 🧠 **History + Psychology + Resistance**
-- 🌍 **Multilingual voiceovers** — local dialects preserved
-- 🎧 **Indigenous soundtracks** — composed by local artists
-- 📜 **Real colonial documents** read like demonic chants
+- 📚 **History × Psychology × Resistance**  
+- 🌍 **Multilingual voiceovers** — dialects preserved  
+- 🎧 **Indigenous scores** — soundtracks by local artists  
+- 📜 **Colonial proclamations** read like demonic scripture
 
 ---
 
 ## ✊ Intellectual Purpose
 
-_Evolving_ isn’t nostalgia. It’s resistance.  
-It’s for:
-- Educators rewriting curriculums
-- Activists seeking historical clarity
-- Filmmakers decolonizing the screen
+_Evolving_ isn’t nostalgia. It’s a cinematic rebellion.
+
+This series serves:
+- Educators rewriting whitewashed curriculums  
+- Activists grounding movements in memory  
+- Filmmakers decolonizing global screens  
 - Youth reclaiming their ancestral truths
 
-> 🎓 This belongs in classrooms, festivals, platforms — and revolutions.
+> 🎓 This archive belongs in classrooms, festivals, museums — and revolutions.
 
 ---
 
-## 📬 Contact
+## 🧭 Quick Navigation
 
-- Email: [oreoluwaolaleye96@gmail.com](mailto:oreoluwaolaleye96@gmail.com)
-- Licensing Info: [LICENSE.md](../../LICENSE.md)
-- Series Bible: [README.md](../../README.md)
+- [🏠 Home](/index.md)  
+- [📘 Series Bible](/README.md)  
+- [📜 Licensing Terms](/LICENSE.md)  
+- [📩 Contact Creator](mailto:oreoluwaolaleye96@gmail.com)
 
 ---
 
 © 2025 **Oreoluwa O. Olaleye**  
-_A rebel with a reason. A witness for the wounded._
-
-<!--#include virtual="/partials/footer.html" -->
+_Rebel with a reason. Witness for the wounded._
