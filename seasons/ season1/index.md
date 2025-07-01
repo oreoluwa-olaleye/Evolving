@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: base.njk
 title: Season 1 – The Curse of the Crown
 description: Nigeria and Kenya's shared colonial wound — dissected in Season 1 of the Evolving docu-series. Explore episode guides, resistance stories, and archival revelations.
 ---
