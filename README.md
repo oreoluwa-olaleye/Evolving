@@ -75,7 +75,7 @@ All content in this repository — including written material, narrative structu
 
 **Licensing inquiries**:  
 📧 [oreoluwaolaleye96@gmail.com](mailto:oreoluwaolaleye96@gmail.com)  
-📃 See [`LICENSE`](./LICENSE) for full terms
+📃 See [`LICENSE`](./LICENSE.md) for full terms
 
 ---
 
