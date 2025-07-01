@@ -29,7 +29,7 @@ Each season explores:
 
 | Season | Title | Focus | Folder |
 |--------|-------|-------|--------|
-| 1 | [**The Curse of the Crown**](/seasons/season-one.md/) | Nigeria & Kenya | `season1/` |
+| 1 | [**The Curse of the Crown**](/seasons/season1/) | Nigeria & Kenya | `season1/` |
 | 2 | [**The Raj Illusion**](/seasons/season2/) | India & Pakistan | `season2/` |
 | 3 | [**Sugar, Shackles & Silence**](/seasons/season3/) | Jamaica, Barbados, West Indies | `season3/` |
 | 4 | [**Apartheid by Blueprint**](/seasons/season4/) | South Africa | `season4/` |
