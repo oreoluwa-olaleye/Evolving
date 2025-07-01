@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: Season Archive
-description: Explore the complete list of seasons from Evolving: Beyond the British Spell — the world's most expansive decolonial docu-series.
+description: "Explore the complete list of seasons from Evolving: Beyond the British Spell — the world's most expansive decolonial docu-series."
 ---
 
 # 📜 **Season Archive**
@@ -61,7 +61,7 @@ New seasons are in the works for:
 
 ## 🎨 Series Design Principles
 
-Each season follows a signature format
+Each season follows a signature format:
 
 - 🎞️ **Narrative Realism** × Reenactment  
 - 📚 **History × Psychology × Resistance**  
